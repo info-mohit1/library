@@ -17,6 +17,7 @@ if (fs.existsSync(envPath)) {
   }
 }
 
+
 const DATABASE_URL = process.env.DATABASE_URL;
 if (!DATABASE_URL) {
   throw new Error("DATABASE_URL must be set in lib/db/.env");

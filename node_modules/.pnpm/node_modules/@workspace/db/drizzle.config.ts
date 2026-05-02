@@ -14,7 +14,6 @@ if (fs.existsSync(envPath)) {
     if (match) process.env[match[1]] = match[2].replace(/^['"]|['"]$/g, "");
   }
 }
-
 if (!process.env.DATABASE_URL) {
   throw new Error(
     "\n\nDATABASE_URL is not set!\n" +

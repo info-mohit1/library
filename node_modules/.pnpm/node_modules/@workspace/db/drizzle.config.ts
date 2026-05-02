@@ -23,7 +23,6 @@ if (!process.env.DATABASE_URL) {
     "Get a free database at https://neon.tech\n"
   );
 }
-
 export default defineConfig({
   schema: "./src/schema/books.ts",
   dialect: "postgresql",

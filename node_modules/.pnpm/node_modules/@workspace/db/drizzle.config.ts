@@ -5,7 +5,7 @@ import { fileURLToPath } from "url";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// Auto-load lib/db/.env so you don't need to set env vars manually
+ 
 const envPath = path.join(__dirname, ".env");
 if (fs.existsSync(envPath)) {
   const lines = fs.readFileSync(envPath, "utf8").split("\n");

@@ -7,7 +7,7 @@ import { booksTable } from "./schema/books";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
-// Auto-load lib/db/.env
+ 
 const envPath = path.join(__dirname, "..", ".env");
 if (fs.existsSync(envPath)) {
   const lines = fs.readFileSync(envPath, "utf8").split("\n");
@@ -16,7 +16,6 @@ if (fs.existsSync(envPath)) {
     if (match) process.env[match[1]] = match[2].replace(/^['"]|['"]$/g, "");
   }
 }
-
 
 const DATABASE_URL = process.env.DATABASE_URL;
 if (!DATABASE_URL) {

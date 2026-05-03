@@ -1,6 +1,6 @@
-import express, { type Express } from "express";
+import express, { type Express, type Request, type Response } from "express";
 import cors from "cors";
-import pinoHttp from "pino-http";
+import { pinoHttp } from "pino-http";  
 import { clerkMiddleware } from "@clerk/express";
 import { publishableKeyFromHost } from "@clerk/shared/keys";
 import router from "./routes";
@@ -17,14 +17,14 @@ app.use(
   pinoHttp({
     logger,
     serializers: {
-      req(req) {
+      req(req: any) {  
         return {
           id: req.id,
           method: req.method,
           url: req.url?.split("?")[0],
         };
       },
-      res(res) {
+      res(res: any) {  
         return {
           statusCode: res.statusCode,
         };
@@ -40,9 +40,9 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
 app.use(
-  clerkMiddleware((req) => ({
+  clerkMiddleware((req: Request) => ({  
     publishableKey: publishableKeyFromHost(
-      getClerkProxyHost(req) ?? "",
+      getClerkProxyHost(req as any) ?? "",
       process.env.CLERK_PUBLISHABLE_KEY,
     ),
   })),

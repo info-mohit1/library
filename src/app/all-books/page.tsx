@@ -13,7 +13,7 @@ type BookCategory = (typeof VALID_CATEGORIES)[number];
 
 function AllBooksContent() {
   const searchParams = useSearchParams();
-  const initialCat = searchParams.get("category");
+  const initialCat = searchParams?.get("category");
   const validInitial =
     initialCat && VALID_CATEGORIES.includes(initialCat as BookCategory)
       ? (initialCat as BookCategory)

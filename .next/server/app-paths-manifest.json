@@ -1,6 +1,0 @@
-{
-  "/api/books/stats/route": "app/api/books/stats/route.js",
-  "/api/books/featured/route": "app/api/books/featured/route.js",
-  "/api/books/route": "app/api/books/route.js",
-  "/page": "app/page.js"
-}

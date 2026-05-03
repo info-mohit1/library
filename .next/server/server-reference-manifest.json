@@ -1,0 +1,97 @@
+{
+  "node": {
+    "7f454b58f6be4b291f861c2fd915cb994fc1c2a6b4": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\server\\keyless-custom-headers.js",
+      "exportedName": "formatMetadataHeaders"
+    },
+    "7f4c5baaf16a90c65d89311b832afd7a23141ef94a": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\server\\keyless-custom-headers.js",
+      "exportedName": "collectKeylessMetadata"
+    },
+    "7f68726f3f3d9490f568bbf3c99bbe18262b9c1f86": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\app-router\\keyless-actions.js",
+      "exportedName": "deleteKeylessAction"
+    },
+    "7f9c7d00e68b4abd89dd10584275b1048d604cba3b": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\app-router\\keyless-actions.js",
+      "exportedName": "syncKeylessConfigAction"
+    },
+    "7ffa406402e7967f51d799a9923b2a18536091685b": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\app-router\\keyless-actions.js",
+      "exportedName": "detectKeylessEnvDriftAction"
+    },
+    "7fff857a7013173e9e0cdf09b61d7dd10be9270f5d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%2C%5B%7B%22id%22%3A%227f454b58f6be4b291f861c2fd915cb994fc1c2a6b4%22%2C%22exportedName%22%3A%22formatMetadataHeaders%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%2C%7B%22id%22%3A%227f4c5baaf16a90c65d89311b832afd7a23141ef94a%22%2C%22exportedName%22%3A%22collectKeylessMetadata%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Cserver%5C%5Ckeyless-custom-headers.js%22%7D%5D%5D%2C%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f68726f3f3d9490f568bbf3c99bbe18262b9c1f86%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227f9c7d00e68b4abd89dd10584275b1048d604cba3b%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227ffa406402e7967f51d799a9923b2a18536091685b%22%2C%22exportedName%22%3A%22detectKeylessEnvDriftAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%2C%7B%22id%22%3A%227fff857a7013173e9e0cdf09b61d7dd10be9270f5d%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\app-router\\keyless-actions.js",
+      "exportedName": "createOrReadKeylessAction"
+    },
+    "7feca7a950d430d75e97b2580fe0f86351cf5c3a47": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%7B%22id%22%3A%227feca7a950d430d75e97b2580fe0f86351cf5c3a47%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%2C%22filename%22%3A%22..%2FC%3A%5C%5CPrograming%20Hero%5C%5Cassignment%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "filename": "../C:\\Programing Hero\\assignment\\node_modules\\@clerk\\nextjs\\dist\\esm\\app-router\\server-actions.js",
+      "exportedName": "invalidateCacheAction"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "/mc51VyoaQ5wiIqebhlGMPKtW+8U9giOebeDHhbK62o="
+}
